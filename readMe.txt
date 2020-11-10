@@ -1,0 +1,1 @@
+sys.stdout.flush()在windows操作系统下使用与不使用没有区别
